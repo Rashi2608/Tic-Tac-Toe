@@ -1,0 +1,27 @@
+.game-board{
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  height:92vh
+}
+
+.board-row{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-color: none;
+}
+
+.box{
+  margin-top: 40px;
+}
+
+.App{
+  margin: 20px;
+}
